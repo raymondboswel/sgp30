@@ -32,7 +32,7 @@ defmodule SGP30.MixProject do
     [
       {:circuits_i2c, "~> 0.3"},
       {:cerlc, "~> 0.2.0"},
-      {:telemetry, "~> 0.4"},
+      {:telemetry, "~> 1.0"},
       {:ex_doc, "~> 0.21", only: :docs}
     ]
   end
